@@ -9,3 +9,7 @@ For each case study, we will provide a description and overview of the problem b
 We hope that these case studies will serve as a valuable resource for those interested in using GNNs to solve real-world problems and inspire new ideas for future research in this area. If you have any questions or suggestions, please feel free to open an issue or pull request on GitHub.
 
 Thank you for visiting our repository, and we hope you find our case studies useful!
+
+
+# References
+
