@@ -22,7 +22,7 @@ You can install these libraries using pip:
 To run the code, clone the repository and navigate to the root directory:
 
 ```
-git clone https://github.com/2AI-LAB/Graph-Neural-Network/tree/main/Case-Studies//Fraud-detection/fake-news-detection-pyg.git
+git clone https://github.com/2AI-Lab/Graph-Neural-Network/tree/main/Case-Studies/Fraud-Detection.git
 cd fake-news-detection-pyg
 ```
 
