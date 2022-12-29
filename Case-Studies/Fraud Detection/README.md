@@ -1,4 +1,5 @@
-# Fake news detection using graphs with PyG
+# Fake News Detection using Graph Neural Networks - GATs with Pytorch Geometric
+
 This repository contains code for detecting fake news using graph neural networks (GNNs) with PyTorch Geometric (PyG). The code is based on the UPFD dataset, which consists of user posts from online forums. The code includes preprocessing and data loading functions, a GNN model for fake news detection, and evaluation functions for assessing the performance of the model.
 
 ## Requirements
