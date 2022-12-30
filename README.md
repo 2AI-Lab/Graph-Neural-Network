@@ -1,6 +1,7 @@
 # Graph-Neural-Networks
 
-Welcome to our repository for Graph Neural Network (GNN) case studies!
+Welcome to our repository for Graph Neural Network (GNN)! This is a practical repository of Case Studies on GNNs from the ongoing written book "GNN for Pattern Recognition and Representation Learning."
+
 
 In this repository, we will be exploring a variety of real-world applications of GNNs, including social network analysis, recommendation systems, fraud detection, drug discovery, natural language processing, computer vision, and traffic prediction.
 

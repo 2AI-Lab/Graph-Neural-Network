@@ -24,7 +24,7 @@ To run the code, clone the repository and navigate to the root directory:
 
 ```
 git clone https://github.com/2AI-Lab/Graph-Neural-Network/tree/main/Case-Studies/Fraud-Detection.git
-cd fake-news-detection-pyg
+cd fake_news_detection.ipynb
 ```
 
 ## Credits
